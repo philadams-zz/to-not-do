@@ -1,0 +1,52 @@
+fun / misc / cleaning
+    catch up on twitter favs
+    fix dotfiles
+    install standard set of vim plugins?
+    get full physical at gannett
+    figure out how to do latex glossaries
+    typeset grandad's autobiography
+    #bungman coffee table book
+
+idl stuffs
+    get final committee member
+    deborah lieberman: there is no good gamification
+    reroute batcave.philadams.net to the idl-mac
+    migrate several projects to prod server
+    clean up cornellhci.org
+    wiki gardening for the summer
+    set up auto backups of prod dbs to dev server
+
+ach 2012/13 prep
+    set up residents email list
+    send them a check-in, say hello, doortag change
+    maxient policies etc.
+        request policies
+        request data curation policy
+        request info about viewing my own records
+    recurring program ideas
+        premiership / champions league
+        cornell cinema
+
+code ideas
+    eric's cl+ (backbone.js)
+    build my own cubbi.es
+    smallest instagram-esque app for mobile phones sitting around the lab
+    ithasky stable
+    python and bluetooth stuffs
+        auto lock / unlock
+        easily scan those around me
+        alex's bluetooth and other data???
+    build iron-man like jarvis alarm clock for android
+        https://labs.ericsson.com/apis/text-to-speech/
+    rework and improve my cornell crime logs code
+    generative art: plants and trees
+        http://blog.blprnt.com/blog/blprnt/project-tree-growth
+    p2p backup system with encryption
+        check in with matt and will
+    some data viz with stream graphs (leebyron.com/else/streamgraph)
+
+stuff i'd like to explore
+    what happens to social network accounts when people die?
+    danco's reminiscence work tied in with mhealth / vera+
+    something intersecting eric's political stuffs and granka's search diversity
+    one space / two spaces in writing / typography
