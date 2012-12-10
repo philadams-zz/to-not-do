@@ -8,30 +8,28 @@ fun / misc / cleaning
     #bungman coffee table book
 
 idl stuffs
-    get final committee member
+    winter wiki gardening
+    set up A-exam tasks (2/3)
     deborah lieberman: there is no good gamification
+    readings from pinch's 6321 'inside technology' class
     reroute batcave.philadams.net to the idl-mac
-    migrate several projects to prod server
+    migrate projects to prod server
     clean up cornellhci.org
-    wiki gardening for the summer
     set up auto backups of prod dbs to dev server
 
-ach 2012/13 prep
-    set up residents email list
-    send them a check-in, say hello, doortag change
-    maxient policies etc.
-        request policies
-        request data curation policy
-        request info about viewing my own records
-    recurring program ideas
-        premiership / champions league
-        cornell cinema
+personal stuffs
+    website homepage online
+    collect resources and quotes on failure leading to success
+    will documents
 
 code ideas
     eric's cl+ (backbone.js)
     build my own cubbi.es
     smallest instagram-esque app for mobile phones sitting around the lab
+    161 things on android
     ithasky stable
+    something for accompl.sh
+    rtm commandline interface
     python and bluetooth stuffs
         auto lock / unlock
         easily scan those around me
