@@ -23,6 +23,8 @@ personal stuffs
     will documents
 
 code ideas
+    a wifi privacy ticker
+        a la http://www.consolvo.org/select-projects/wi-fi-privacy-ticker.html
     eric's cl+ (backbone.js)
     build my own cubbi.es
     smallest instagram-esque app for mobile phones sitting around the lab
