@@ -1,6 +1,7 @@
 fun / misc / cleaning
     catch up on twitter favs
     fix dotfiles
+    confirm timezone on geyser apache...
     install standard set of vim plugins?
     get full physical at gannett
     figure out how to do latex glossaries
@@ -25,6 +26,7 @@ personal stuffs
 code ideas
     a wifi privacy ticker
         a la http://www.consolvo.org/select-projects/wi-fi-privacy-ticker.html
+    simple markdown-based slideshow webapp
     eric's cl+ (backbone.js)
     build my own cubbi.es
     smallest instagram-esque app for mobile phones sitting around the lab
