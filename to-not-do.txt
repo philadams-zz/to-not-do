@@ -24,6 +24,7 @@ personal stuffs
     will documents
 
 code ideas
+    as part of a color scheme picker, something just like http://flatuicolors.com - but generalized
     a wifi privacy ticker
         a la http://www.consolvo.org/select-projects/wi-fi-privacy-ticker.html
     simple markdown-based slideshow webapp
