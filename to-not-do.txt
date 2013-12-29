@@ -8,6 +8,15 @@ fun / misc / cleaning
   typeset grandad's autobiography
   #bungman coffee table book
 
+ach
+  simple dashboard for success tracking
+    residents conversed with
+    programs run
+    fellows engaged
+  residently: local browser app for resident notes, pics, flashcards, etc.
+  'my favorite paper' with faculty fellows
+  'photos of...' kind of like story time / show and tell / coffee hour
+
 idl stuffs
   winter wiki gardening
   deborah lieberman: there is no good gamification
@@ -23,6 +32,7 @@ personal stuffs
   new website build (punch!)
 
 code ideas
+  text-on-image js app (a la pictionapp.com): node.js project?
   explore replicating effect in http://nathanielstern.com/artwork/dynamic-stasis/
   mess around with javascript machine learning
     perhaps with http://www.aaronbeppu.com/blog/2010-02-07-machine-learning-is-not-magic.html as a sample problem
