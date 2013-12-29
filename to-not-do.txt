@@ -33,6 +33,8 @@ personal stuffs
 
 code ideas
   text-on-image js app (a la pictionapp.com): node.js project?
+  use platypus to build ma a youtube downloading app
+  http://xkcd.com/1288/ as an excuse to play with chrome extensions
   explore replicating effect in http://nathanielstern.com/artwork/dynamic-stasis/
   mess around with javascript machine learning
     perhaps with http://www.aaronbeppu.com/blog/2010-02-07-machine-learning-is-not-magic.html as a sample problem
