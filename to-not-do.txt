@@ -29,9 +29,11 @@ idl stuffs
 personal stuffs
   collect resources and quotes on failure leading to success
   will documents
-  new website build (punch!)
+  new website build
 
 code ideas
+  explore fullscreen background img (and gallery)
+    a la https://github.com/srobbin/jquery-backstretch
   text-on-image js app (a la pictionapp.com): node.js project?
   use platypus to build ma a youtube downloading app
   http://xkcd.com/1288/ as an excuse to play with chrome extensions
