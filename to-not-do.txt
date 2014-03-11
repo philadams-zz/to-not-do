@@ -35,6 +35,9 @@ code ideas
       and sp = s.baseNode.parentElement
       and document.defaultView.getComputedStyle(sp, null).getPropertyValue('font-family')
       and http://stackoverflow.com/questions/845/how-can-i-detect-which-font-was-used-in-a-web-page
+  android
+    something like bugshot http://www.marco.org/bugshot
+      streamline process? what hooks are there with screenshots? share/launch activity?
   javascript support for (e.g.) unsplash.com showing photo metadata
   qlocktwo-style for phone/tablet display or screensaver
   moves-api: python api for moves.app api
