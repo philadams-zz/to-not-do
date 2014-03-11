@@ -1,12 +1,5 @@
-fun / misc / cleaning
-  catch up on twitter favs
-  fix dotfiles
-  confirm timezone on geyser apache...
-  install standard set of vim plugins?
-  get full physical at gannett
-  figure out how to do latex glossaries
-  typeset grandad's autobiography
-  #bungman coffee table book
+home / self
+  cheap standing desk! http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html
 
 ach
   simple dashboard for success tracking
@@ -16,15 +9,16 @@ ach
   residently: local browser app for resident notes, pics, flashcards, etc.
   'my favorite paper' with faculty fellows
   'photos of...' kind of like story time / show and tell / coffee hour
+  beverages series:
+    coffee (w gimme!)
+    tea (w ?)
+    beer (w pezzotti?)
+    wine (w ?)
 
 idl stuffs
-  winter wiki gardening
-  deborah lieberman: there is no good gamification
+  review auto-backup procedure of dbs on project server
   readings from pinch's 6321 'inside technology' class
-  reroute batcave.philadams.net to the the beast machine
-  migrate projects to prod server
-  clean up cornellhci.org
-  set up auto backups of prod dbs to dev server
+  clean up cornellhci.org?
 
 personal stuffs
   collect resources and quotes on failure leading to success
@@ -32,11 +26,28 @@ personal stuffs
   new website build
 
 code ideas
+  20 minute projects
+    rss feed reader for http://www.nngroup.com/articles/ (and others that don't
+    have one)
+  bookmarklets
+    whichFontIsThis
+      using window.getSelection
+      and sp = s.baseNode.parentElement
+      and document.defaultView.getComputedStyle(sp, null).getPropertyValue('font-family')
+      and http://stackoverflow.com/questions/845/how-can-i-detect-which-font-was-used-in-a-web-page
+  javascript support for (e.g.) unsplash.com showing photo metadata
+  qlocktwo-style for phone/tablet display or screensaver
+  moves-api: python api for moves.app api
+  groupme hubot adapter
+    http-based
+    or sms-based using http://aws.amazon.com/sns/pricing/ ?
+    either install or write
+    https://github.com/github/hubot/blob/f5c2bedcaeb70b7276efb7b2dbe27779cf0a3058/src/hubot/groupme.coffee is a possible starting place
   explore fullscreen background img (and gallery)
     a la https://github.com/srobbin/jquery-backstretch
-  text-on-image js app (a la pictionapp.com): node.js project?
-  use platypus to build ma a youtube downloading app
-  http://xkcd.com/1288/ as an excuse to play with chrome extensions
+  excuses to play with chrome extensions
+    http://xkcd.com/1288/
+    or possibly http://www.phpied.com/reactivetable-bookmarklet/
   explore replicating effect in http://nathanielstern.com/artwork/dynamic-stasis/
   mess around with javascript machine learning
     perhaps with http://www.aaronbeppu.com/blog/2010-02-07-machine-learning-is-not-magic.html as a sample problem
@@ -70,6 +81,17 @@ code ideas
 
 stuff i'd like to explore
   what happens to social network accounts when people die?
+    this is a 3+ year old idea now... and brubaker has written the book on it since.
   danco's reminiscence work tied in with mhealth / vera+
   something intersecting eric's work and granka's search diversity
   one space / two spaces in writing / typography
+  how time is conceptualized re phones / modernity
+    analog to space reconceptualizing thanks to gmaps etc.
+    as tv does with languages, are various time languages/accents becoming extinct?
+    c.f. eric's blog readership and kairotic time work
+
+misc
+  catch up on twitter favs
+  get full physical at gannett
+  read on how to do latex glossaries
+  typeset grandad's autobiography
