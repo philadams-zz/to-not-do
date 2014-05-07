@@ -1,0 +1,19 @@
+cook house (to-not-do)
+======================
+
+- better way of tracking / recording interactions with residents
+- residently: local browser app for resident notes, pics, flashcards, etc.
+- program: 'my favorite paper' with faculty fellows
+- ugrad research speed talk festival (20 seconds per slide, auto-step)
+- 'photos of...' kind of like story time / show and tell / coffee hour
+- program: beverage series
+
+  - coffee (w gimme!)
+  - tea (w ?)
+  - beer (w pezzotti?)
+  - wine (w ?)
+  - whiskey (w ?)
+
+- silent auction of photos/artwork for charity
+- cook collective sponsors child(ren) in developing world school
+- 'twin' cook house with a school in the developing world

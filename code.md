@@ -1,0 +1,78 @@
+code (to-not-do)
+================
+
+20-minute projects
+------------------
+
+- rss feed generator for http://www.nngroup.com/articles/ (and others that
+  don't have one)
+- screw around with js games (eg http://codeincomplete.com/archive/)
+- track people presence in a venue with phone or router using probe requests...
+  useful stuff at [probe1][], [probe2][], [probe3][], [probe4][]
+- first-draft of a simple (just phil?) version of http://www.polleverywhere.com
+  app? website? phone number / text?
+
+[probe1]: http://en.wikipedia.org/wiki/IEEE_802.11#Management_Frames
+[probe2]: http://www.whitebyte.info/android/android-wifi-hotspot-manager-class
+[probe3]: http://stackoverflow.com/questions/2264929/obtain-mac-address-of-devices-in-range-of-router
+[probe4]: http://hak5.org/episodes/haktip-23
+
+bookmarklets
+------------
+
+- whichFontIsThis using window.getSelection and sp = s.baseNode.parentElement
+  and document.defaultView.getComputedStyle(sp,
+  null).getPropertyValue('font-family') and
+  http://stackoverflow.com/questions/845/how-can-i-detect-which-font-was-used-in-a-web-page
+- javascript support for (e.g.) unsplash.com showing photo metadata
+- reactivetable
+
+android
+-------
+
+- contribute http intents to
+  https://github.com/OnlyInAmerica/OpenSpritz-Android
+- something like bugshot http://www.marco.org/bugshot... streamline process?
+  what hooks are there with screenshots? share/launch activity?
+- smallest instagram-esque app for mobile phones sitting around the lab
+- 161 things on android
+- a simple running tool that includes run rate, target run rate, and weather
+
+unsorted
+--------
+
+- commandline wrapper for https://github.com/kennethreitz/tablib
+- qlocktwo-style for phone/tablet display or screensaver
+- moves-api: python api for moves.app api
+- groupme hubot adapter
+
+  - http-based
+  - or sms-based using http://aws.amazon.com/sns/pricing/ ?
+  - either install or write
+  - https://github.com/github/hubot/blob/f5c2bedcaeb70b7276efb7b2dbe27779cf0a3058/src/hubot/groupme.coffee is a possible starting place
+
+- explore fullscreen background img (and gallery) a la
+  https://github.com/srobbin/jquery-backstretch
+- excuses to play with chrome extensions http://xkcd.com/1288/ or possibly
+  http://www.phpied.com/reactivetable-bookmarklet/
+- explore replicating effect in http://nathanielstern.com/artwork/dynamic-stasis/
+- mess around with javascript machine learning (perhaps with http://www.aaronbeppu.com/blog/2010-02-07-machine-learning-is-not-magic.html as a sample problem)
+- a colorscheme picker, something just like http://flatuicolors.com - but
+  generalized
+- a wifi privacy ticker a la
+  http://www.consolvo.org/select-projects/wi-fi-privacy-ticker.html
+- simple markdown-based slideshow webapp
+- eric's cl+ (angular?)
+- build my own cubbi.es
+- ithasky stable
+- something for accompl.sh
+- habitrpg commandline interface
+- python and bluetooth stuffs (auto lock / unlock, alex's bluetooth and other
+  data???)
+- build iron-man like jarvis alarm clock for android or chrome
+  https://labs.ericsson.com/apis/text-to-speech/
+- rework and improve my cornell crime logs code
+- generative art: plants and trees
+  (http://blog.blprnt.com/blog/blprnt/project-tree-growth)
+- p2p backup system with encryption: check in with matt and will
+- some data viz with stream graphs (leebyron.com/else/streamgraph)
