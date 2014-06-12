@@ -41,6 +41,7 @@ android
 unsorted
 --------
 
+- html5 version of http://www.ctan.org/pkg/tufte-latex
 - commandline wrapper for https://github.com/kennethreitz/tablib
 - qlocktwo-style for phone/tablet display or screensaver
 - moves-api: python api for moves.app api
