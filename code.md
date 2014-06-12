@@ -41,6 +41,14 @@ android
 unsorted
 --------
 
+- parse human strings in python a la ruby's http://chronic.rubyforge.org
+- terminal 'canvas' lib (in python?)... given a width and height (by default
+  the terminal width, height), support primitive functions like drawLine,
+  drawRect, and drawOval. also allow colors, and character selection. could
+  implement it via a lineprinter, or could use lores?
+- timediff command: given two times (or one, second defaults to now) in natural
+  language or formatted however, report the difference in (e.g.) years, days,
+  minutes, etc.. possibly build node-based, using awesome times js lib?
 - commandline wrapper for https://github.com/kennethreitz/tablib
 - qlocktwo-style for phone/tablet display or screensaver
 - moves-api: python api for moves.app api
