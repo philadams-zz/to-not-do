@@ -41,6 +41,7 @@ android
 unsorted
 --------
 
+- html5 version of http://www.ctan.org/pkg/tufte-latex
 - parse human strings in python a la ruby's http://chronic.rubyforge.org
 - terminal 'canvas' lib (in python?)... given a width and height (by default
   the terminal width, height), support primitive functions like drawLine,
