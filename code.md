@@ -20,10 +20,6 @@ code (to-not-do)
 bookmarklets
 ------------
 
-- whichFontIsThis using window.getSelection and sp = s.baseNode.parentElement
-  and document.defaultView.getComputedStyle(sp,
-  null).getPropertyValue('font-family') and
-  http://stackoverflow.com/questions/845/how-can-i-detect-which-font-was-used-in-a-web-page
 - javascript support for (e.g.) unsplash.com showing photo metadata
 - reactivetable
 
