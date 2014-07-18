@@ -1,6 +1,7 @@
 random questions (to-not-do)
 ============================
 
+- what are people's phone background images like? how often do they change them? how might we best study this?
 - what happens to social network accounts when people die? (this is now a 3+
   year-old idea as of 2013; and brubaker has literally written the book on it
   since)
