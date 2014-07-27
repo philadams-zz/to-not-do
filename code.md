@@ -26,6 +26,7 @@ bookmarklets
 android
 -------
 
+- simple accomp.sh client for jenn!
 - contribute http intents to
   https://github.com/OnlyInAmerica/OpenSpritz-Android
 - something like bugshot http://www.marco.org/bugshot... streamline process?
@@ -70,7 +71,6 @@ unsorted
 - eric's cl+ (angular?)
 - build my own cubbi.es
 - ithasky stable
-- something for accompl.sh
 - habitrpg commandline interface
 - python and bluetooth stuffs (auto lock / unlock, alex's bluetooth and other
   data???)
