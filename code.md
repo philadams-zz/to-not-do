@@ -31,6 +31,7 @@ android
   https://github.com/OnlyInAmerica/OpenSpritz-Android
 - something like bugshot http://www.marco.org/bugshot... streamline process?
   what hooks are there with screenshots? share/launch activity?
+  https://github.com/android/platform_frameworks_base/blob/master/packages/SystemUI/src/com/android/systemui/screenshot/GlobalScreenshot.java#L178
 - smallest instagram-esque app for mobile phones sitting around the lab
 - 161 things on android
 - a simple running tool that includes run rate, target run rate, and weather
