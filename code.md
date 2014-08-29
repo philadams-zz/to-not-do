@@ -39,6 +39,7 @@ android
 unsorted
 --------
 
+- some sort of quick 'what is there to eat, where, at cornell?' app. a la http://scyberia.org/projects/cornell-dining/map.php / https://github.com/ajay-gandhi/cornell-dining
 - html5 version of http://www.ctan.org/pkg/tufte-latex
 - parse human strings in python a la ruby's http://chronic.rubyforge.org
 - terminal 'canvas' lib (in python?)... given a width and height (by default
