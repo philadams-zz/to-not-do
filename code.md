@@ -39,6 +39,7 @@ android
 unsorted
 --------
 
+- build something (for UXR?) using [videogrep](https://github.com/antiboredom/videogrep/), e.g. [auto highlights](http://zulko.github.io/blog/2014/06/21/some-more-videogreping-with-python/) and/or without grepping by using [moviepy](https://github.com/Zulko/moviepy)
 - some sort of quick 'what is there to eat, where, at cornell?' app. a la http://scyberia.org/projects/cornell-dining/map.php / https://github.com/ajay-gandhi/cornell-dining
 - html5 version of http://www.ctan.org/pkg/tufte-latex
 - parse human strings in python a la ruby's http://chronic.rubyforge.org
