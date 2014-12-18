@@ -26,6 +26,8 @@ bookmarklets
 android
 -------
 
+- knock/tap-based interface. inspired by knocktounlock, perhaps at first as an
+  intent launcher? e.g. open hangouts to shion, or launch pocket.
 - simple accomp.sh client for jenn!
 - contribute http intents to
   https://github.com/OnlyInAmerica/OpenSpritz-Android
