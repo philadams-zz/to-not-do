@@ -4,6 +4,13 @@ code (to-not-do)
 20-minute projects
 ------------------
 
+- take http://tholman.com/giflinks/ and build a chrome plugin (or something)
+  that basically does an I'm feeling lucky gifsearch for all link text on all
+  pages. evar.
+- implement `pip home` a la `brew home`
+  - probably using https://github.com/pypa/pip/pull/2232
+  - but also frustratingly this only works for installed packages
+  - which isn't the way that brew works
 - rss feed generator for http://www.nngroup.com/articles/ (and others that
   don't have one)
 - screw around with js games (eg http://codeincomplete.com/archive/)
