@@ -7,6 +7,8 @@ code (to-not-do)
 - take http://tholman.com/giflinks/ and build a chrome plugin (or something)
   that basically does an I'm feeling lucky gifsearch for all link text on all
   pages. evar.
+- chrome plugin that, if feature doesn't already exist, lists all keyboard shortcuts
+  for that website when you type "?".
 - rss feed generator for http://www.nngroup.com/articles/ (and others that
   don't have one)
 - track people presence in a venue with phone or router using probe requests...
