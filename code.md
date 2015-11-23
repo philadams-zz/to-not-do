@@ -40,6 +40,7 @@ android
   https://github.com/android/platform_frameworks_base/blob/master/packages/SystemUI/src/com/android/systemui/screenshot/GlobalScreenshot.java#L178
 - smallest instagram-esque app for mobile phones sitting around the lab
 - 161 things on android
+- wallpaper setter, or app viewer, for unsplash.
 
 unsorted
 --------
