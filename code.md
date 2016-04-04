@@ -11,6 +11,7 @@ quick projects
   useful stuff at [probe1][], [probe2][], [probe3][], [probe4][]
 - first-draft of a simple (just phil?) version of http://www.polleverywhere.com
   app? website? phone number / text?
+- add [commandline interface to androidtool-mac](https://github.com/mortenjust/androidtool-mac/issues/55)?
 
 [probe1]: http://en.wikipedia.org/wiki/IEEE_802.11#Management_Frames
 [probe2]: http://www.whitebyte.info/android/android-wifi-hotspot-manager-class
