@@ -27,6 +27,7 @@ bookmarklets
 android
 -------
 
+- Something that navigates / organizes content/screens on a giant canvas, a la MiniMetro's menu transitions or Sketch's ever-expanding canvas
 - Android tiny console inspired by https://github.com/Cosmo/TinyConsole
 - knock/tap-based interface. inspired by knocktounlock, perhaps at first as an
   intent launcher? e.g. open hangouts to shion, or launch pocket.
